@@ -2,6 +2,7 @@
 * [Examples of my work](#examples-of-my-work)
    * [Test Cases](#test-cases)
    * [Test Scenarios in Trello](#test-scenarios-in-Trello)
+   * [Bug reports in Jira](#bug-reports-in-jira)
 
 ## Examples of my work
 #### Test Cases
@@ -26,6 +27,13 @@
       * Category Search. Check [the screenshot from Trello here](https://drive.google.com/file/d/17IFarKiq45_Sp7NCoFArqxPwaNRtBZPA/view?usp=sharing).
       * Course Search. Check [the screenshot from Trello here](https://drive.google.com/file/d/1Ffl0LMvmsKJVXRO97EX0x1ENABiVD8GT/view?usp=sharing).
       * Instructor Search. Check [the screenshot from Trello here](https://drive.google.com/file/d/1hNKAthTZYApnmm9J3KSr-LOmunsB6e8N/view?usp=sharing).
+
+#### Bug reports in Jira
+* Several bugs found on [OWASP Juice Shop](https://juice-shop.herokuapp.com/#/)  and reported:
+    * Bug #1. Check the [screenshot of the bug report in Jira](https://drive.google.com/file/d/1HGUQIo32k3n04Zw-M648yfR_NtmZ1FcJ/view?usp=sharing).
+    * Bug #2. Check the [screenshot of the bug report in Jira](https://drive.google.com/file/d/1SQ1DX3zYQ8fc40sfo5fDfrWACESl-R8W/view?usp=sharing).
+    * Bug #3. Check the [screenshot of the bug report in Jira](https://drive.google.com/file/d/1PYSP-7kwuqa7sstZtVQfq1BGMriX6Yb2/view?usp=sharing).
+
         
 
 
