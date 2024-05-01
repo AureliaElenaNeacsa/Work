@@ -30,9 +30,14 @@
 
 #### Bug reports in Jira
 * Several bugs found on [OWASP Juice Shop](https://juice-shop.herokuapp.com/#/)  and reported:
-    * Bug #1. Check the [screenshot of the bug report in Jira](https://drive.google.com/file/d/1HGUQIo32k3n04Zw-M648yfR_NtmZ1FcJ/view?usp=sharing).
-    * Bug #2. Check the [screenshot of the bug report in Jira](https://drive.google.com/file/d/1SQ1DX3zYQ8fc40sfo5fDfrWACESl-R8W/view?usp=sharing).
-    * Bug #3. Check the [screenshot of the bug report in Jira](https://drive.google.com/file/d/1PYSP-7kwuqa7sstZtVQfq1BGMriX6Yb2/view?usp=sharing).
+    * Bug #1. Check the [screenshot of the bug report in Jira](https://drive.google.com/file/d/1B_eJxp0zSmbBb60kmJ9hjy08Fz8LjHNf/view?usp=sharing).
+    * Bug #2. Check the [screenshot of the bug report in Jira](https://drive.google.com/file/d/1B649WcH3Y9zUbT0KmqE8XpvENKuEgCrv/view?usp=sharing).
+    * Bug #3. Check the [screenshot of the bug report in Jira](https://drive.google.com/file/d/1jcMwpWqB8No19LOqGvvEVcIYtgfxmrko/view?usp=sharing).
+
+* Several bugs found on [Primăria Fieni](https://fieni.ro/)  and reported:
+    * Bug #1. Check the [screenshot of the bug report in Jira](https://drive.google.com/file/d/1utmfolDhxUBZg1TP1boKqmavIcnhcCkT/view?usp=sharing).
+    * Bug #2. Check the [screenshot of the bug report in Jira](https://drive.google.com/file/d/1nuXOPq17X056yWWI0rp4qbca4D5LBnwi/view?usp=sharing).
+    
 
         
 
