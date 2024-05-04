@@ -34,7 +34,7 @@
     * Bug #2. Check the [screenshot of the bug report in Jira](https://drive.google.com/file/d/1B649WcH3Y9zUbT0KmqE8XpvENKuEgCrv/view?usp=sharing).
     * Bug #3. Check the [screenshot of the bug report in Jira](https://drive.google.com/file/d/1jcMwpWqB8No19LOqGvvEVcIYtgfxmrko/view?usp=sharing).
 
-* Several bugs found on [Primăria Fieni](https://fieni.ro/)  and reported:
+* Several bugs found on [Primăria Fieni](https://fieni.ro/) (city in Romania) and reported:
     * Bug #1. Check the [screenshot of the bug report in Jira](https://drive.google.com/file/d/1utmfolDhxUBZg1TP1boKqmavIcnhcCkT/view?usp=sharing).
     * Bug #2. Check the [screenshot of the bug report in Jira](https://drive.google.com/file/d/1nuXOPq17X056yWWI0rp4qbca4D5LBnwi/view?usp=sharing).
     
